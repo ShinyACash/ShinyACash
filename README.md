@@ -17,5 +17,5 @@ This is mainly how I represent myself in the things I create.
 
 ### What I'm listening to right now 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/u62iuxsvu6lo07exop8nd5e99)
+
 <br/>
