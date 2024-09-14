@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I add bits and pieces of my personality in everything I create (psst, there's some hidden in this readme too)
 
-##Poyo
+## Poyo
 ![Kirbo]("https://cdn.discordapp.com/attachments/775944283039203359/1284539295356682360/kirbo.png?ex=66e6fff1&is=66e5ae71&hm=f04744cd292834b149d855a2433bd410aaff17de0198b86bf2888793fbc37048&")
 <!--i love kirby if you know me and have money pls say yes when i say "lets go kirby merch shopping"-->
 This is mainly how I represent myself in the things I create.
