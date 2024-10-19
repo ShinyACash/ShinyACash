@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I add bits and pieces of my personality in everything I create (psst, there's some hidden in this readme too)
 
 ## Poyo
-![Kirbo]("https://raw.githubusercontent.com/ShinyACash/ShinyACash/refs/heads/main/kirboo.png?token=GHSAT0AAAAAACWTGBCNQAL3QDOP66OWEKXQZYTP2WA")
+![Kirbo]("https://raw.githubusercontent.com/ShinyACash/ShinyACash/refs/heads/main/kirboo.png?")
 <!--i love kirby if you know me and have money pls say yes when i say "lets go kirby merch shopping"-->
 This is mainly how I represent myself in the things I create.
 
