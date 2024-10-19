@@ -2,10 +2,10 @@
 
 
 
-- 🌱 I’m currently learning react, sass, pymongo and how to become a sassier person.
-- 👯 I’m looking to collaborate on webdev projects.
+- 🌱 I’m currently learning angular, react, cybersec operations and how to become a sassier person.
+- 👯 I’m looking to collaborate on webdev projects, cybersec projects and irl shenanigans.
 - 💬 Ask me about anything related to design, tech and cryptography.
-- 📫 How to reach me: mail datta.akash@outlook.com
+- 📫 How to reach me: mail - datta.akash@outlook.com
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I add bits and pieces of my personality in everything I create (psst, there's some hidden in this readme too)
 
@@ -15,7 +15,4 @@
 This is mainly how I represent myself in the things I create.
 
 
-### What I'm listening to right now 🎧
 
-[![Spotify]("https://spotify-github-profile.kittinanx.com")]("https://open.spotify.com/user/u62iuxsvu6lo07exop8nd5e99")
-<br/>
