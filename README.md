@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo" id="GOOGLE IM COMING FOR YOU" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
 </div>
@@ -69,8 +69,8 @@
 ###
 
 <img align="right" height="200" src="https://media.tenor.com/fzAQ_TYtK-kAAAAM/kirbo.gif"  />
+<!--pls go kirby shopping with me-->
 
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ShinyACash&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -85,3 +85,6 @@
 <img src="https://raw.githubusercontent.com/ShinyACash/ShinyACash/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br><br> Little gift for visiting!
+<br><br>`UFRzRFFGTlFXaW9Xc0hCbVFjMktwbUdSV3d3WlR5UXE1Zmd5Znh4U3o3V0Y0SzV3a0pUaGRIUEdZdkx3b2tXNEhENkFKaDlnZ2ZZcFNhZlFxR3VVYVhTcFYxZXBEcWM2QVIzZzk0MmVUY0UxdXNFZjlrSHU1YlRucm5OZ2I1RDNwZ3F1UkoyN3N4dDZxbVdtZmFpWWlNTEdiRkx5TFBBYWo=` 👀
