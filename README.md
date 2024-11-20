@@ -2,13 +2,13 @@
 
 ###
 
-- 🔭 I’m currently working on [KirboSmash](https://github.com/ShinyACash/KirboSmash)<br><br>
-- 🌱 I’m currently learning Japanese, swift, angular and how to become a sassier person.<br><br>
-- 👯 I’m looking to collaborate on CTFs, Web dev projects<br><br>
-- 🤝 I’m looking for help with CTFs (pwning and malware analysis 😭)<br><br>
-- 💬 Ask me about frontend dev, crypto, reverse engineering, python<br><br>
-- 📫 How to reach me datta.akash@outlook.com<br><br>
-- ⚡ Fun fact I hide bits and pieces of my personality into everything I make (theres some hidden in this too!)</p>
+- 🔭 I’m currently working on: [KirboSmash](https://github.com/ShinyACash/KirboSmash)<br><br>
+- 🌱 I’m currently learning: Japanese, swift, angular and how to become a sassier person.<br><br>
+- 👯 I’m looking to collaborate on: CTFs, Web dev projects<br><br>
+- 🤝 I’m looking for help with: CTFs (pwning and malware analysis 😭)<br><br>
+- 💬 Ask me about: frontend dev, crypto, reverse engineering, python<br><br>
+- 📫 How to reach me: datta.akash@outlook.com<br><br>
+- ⚡ Fun fact: I hide bits and pieces of my personality into everything I make (theres some hidden in this too!)</p>
 
 ###
 
@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo" id="GOOGLE IM COMING FOR YOU." />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
 </div>
@@ -57,11 +57,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
-
+<!--there's more than just this but yes.-->
 ###
 
 <h6 align="right">Me when code or 12+ hours of ctf</h6>
-
+<!--POYO!! i love kirby. pls go kirby shopping with me.-->
 ###
 
 <img align="right" height="200" src="https://media.tenor.com/fzAQ_TYtK-kAAAAM/kirbo.gif"  />
