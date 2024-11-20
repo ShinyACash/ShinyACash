@@ -58,11 +58,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 <!--there's more than just this but yes.-->
-###
+
 
 <h6 align="right">Me when code or 12+ hours of ctf</h6>
 <!--POYO!! i love kirby. pls go kirby shopping with me.-->
-###
+
 
 <img align="right" height="200" src="https://media.tenor.com/fzAQ_TYtK-kAAAAM/kirbo.gif"  />
 
