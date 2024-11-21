@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">Extra skills I have</h3>
+<h3 align="left">Extra skills I have (Hobbies)</h3>
 
 ###
 
