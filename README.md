@@ -1,10 +1,5 @@
 <h2 align="center">Hallo there👋! Akash here</h2>
 
-###
-
-<img align="right" height="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/57321d71827309.5bd22e2227932.png"  />
-
-###
 
 - 🔭 I’m currently working on [KirboSmash](https://github.com/ShinyACash/KirboSmash)<br><br>
 - 🌱 I’m currently learning: Japanese, swift, angular and how to become a sassier person.<br><br>
