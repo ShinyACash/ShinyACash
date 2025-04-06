@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning: Japanese, swift, angular and how to become a sassier person.<br><br>
 - 👯 I’m looking to collaborate on: CTFs, Web dev projects<br><br>
 - 🤝 I’m looking for help with: CTFs (pwning and malware analysis 😭)<br><br>
-- 💬 Ask me about: frontend dev, crypto, reverse engineering, python<br><br>
+- 💬 Ask me about: frontend dev, crypto, forensics, python<br><br>
 - 📫 How to reach me: datta.akash@outlook.com<br><br>
 - ⚡ Fun fact: I hide bits and pieces of my personality into everything I make (theres some hidden in this too!)
 
