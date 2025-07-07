@@ -5,11 +5,11 @@
 </div>
 
 - ✨ I'm a College student currently pursuing Computer Science with a pinch of Design. <br><br>
-- 🔭 I’m currently working on [My very own CLI](https://github.com/ShinyACash/dedCLI) <br><br>
+- 🔭 I’m currently working on [My very own (kinda useless) CLI!](https://github.com/ShinyACash/dedCLI) <br><br>
 - 🌱 I’m currently learning: Japanese, swift, angular and how to become a sassier person.<br><br>
 - 👯 I’m looking to collaborate on: CTFs, Web dev projects<br><br>
-- 🤝 I’m looking for help with: CTFs (pwning and malware analysis 😭)<br><br>
-- 💬 Ask me about: frontend dev, crypto, forensics, python<br><br>
+- 🤝 I’m looking for help with: CTFs, Cloud Structures, AI<br><br>
+- 💬 Let's talk: Frontend Dev, Linux, Web Exploitation, Reverse Engineering, Digital Forensics, Python, Node JS<br><br>
 - 📫 How to reach me: datta.akash@outlook.com<br><br>
 - ⚡ Fun fact: I hide bits and pieces of my personality into everything I make (theres some hidden in this too!)
 
@@ -44,7 +44,7 @@
 
 <img align="right" height="200" src="https://media.tenor.com/fzAQ_TYtK-kAAAAM/kirbo.gif"  />
 <!--pls go kirby shopping with me-->
-
+<!-- or not 'cause like im kinda broke. -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ShinyACash&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
