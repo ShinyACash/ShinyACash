@@ -5,7 +5,7 @@
 </div>
 
 - ✨ I'm a College student currently pursuing Computer Science with a pinch of Design. <br><br>
-- 🔭 I’m currently working on [My very own (kinda useless) CLI!](https://github.com/ShinyACash/dedCLI) <br><br>
+- 🔭 I’m currently working on [My very own Disassembler-Decompiler in Python!](https://github.com/ShinyACash/Disassembler-Python) <br><br>
 - 🌱 I’m currently learning: Japanese, swift, angular and how to become a sassier person.<br><br>
 - 👯 I’m looking to collaborate on: CTFs, Web dev projects<br><br>
 - 🤝 I’m looking for help with: CTFs, Cloud Structures, AI<br><br>
