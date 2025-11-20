@@ -1,4 +1,4 @@
-<h2 align="center">Hallo there👋! Akash here</h2>
+<h2 align="center">Hallo there👋! Akash here <br><br> Research | CyberSecurity Enthusiast | Game Dev | Random Fun Projects</h2>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/79d1bab9-5793-4f1f-8a1b-5fd17fcc592c" />  
 </div>
