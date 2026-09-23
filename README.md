@@ -2,15 +2,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/79d1bab9-5793-4f1f-8a1b-5fd17fcc592c" />  
 </div>
- 
-- ✨ I'm a College student currently pursuing Computer Science with a pinch of Design. <br><br>
-- 🔭 I’m currently working on [My very own Disassembler-Decompiler in Python!](https://github.com/ShinyACash/Disassembler-Python) <br><br>
-- 🌱 I’m currently learning: Japanese, swift, angular and how to become a sassier person.<br><br>
-- 👯 I’m looking to collaborate on: CTFs, Web dev projects<br><br>
-- 🤝 I’m looking for help with: CTFs, Cloud Structures, AI<br><br>
-- 💬 Let's talk: Frontend Dev, Linux, Web Exploitation, Reverse Engineering, Digital Forensics, Python, Node JS<br><br>
-- 📫 How to reach me: datta.akash@outlook.com<br><br>
-- ⚡ Fun fact: I hide bits and pieces of my personality into everything I make (theres some hidden in this too!)
 
 ###
 
@@ -53,11 +44,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ShinyACash/ShinyACash/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br><br> Little gift for visiting!
 <br><br>`UFRzRFFGTlFXaW9Xc0hCbVFjMktwbUdSV3d3WlR5UXE1Zmd5Znh4U3o3V0Y0SzV3a0pUaGRIUEdZdkx3b2tXNEhENkFKaDlnZ2ZZcFNhZlFxR3VVYVhTcFYxZXBEcWM2QVIzZzk0MmVUY0UxdXNFZjlrSHU1YlRucm5OZ2I1RDNwZ3F1UkoyN3N4dDZxbVdtZmFpWWlNTEdiRkx5TFBBYWo=` 👀 
